@@ -1,0 +1,59 @@
+body {
+	margin:50px;
+  padding:0px;
+	text-align:center;
+	font-family:Arial;
+	background-color:black;
+}
+.flagbox {
+	margin-left:524px;
+	position:relative;
+}
+.flagpole {
+	width:10px;
+	height:300px;
+	background-color:gray;
+}
+.flag {
+	width:240px; 
+	height:160px; 
+	position:absolute;
+	top:0px;
+	left:10px; 
+}
+.orange {
+	height:33%;
+	background-color:orange;
+}
+.white {
+	height:34%;
+	background-color:white;
+}
+.green {
+	height:34%;
+	background-color:green;
+}
+.ashokachakra {
+	width:55px;
+	height:55px;
+}
+.stand {
+	width:80px;
+	height:28px;
+	background-color:brown; 
+	margin:9px;
+	margin-top:0px;
+	border-radius:5px;
+	position:relative;
+	left:-43px; 
+}
+.standbox {
+	width:110px;
+	height:30px;
+	background-color:brown; 
+	margin:-9;
+	margin-top:-10px; 
+	border-radius:5px;
+	position:relative;
+	left:-49px; 
+}
